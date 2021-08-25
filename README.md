@@ -11,3 +11,5 @@ Nombre: Patricio Cortés
 Rut: 13.882.987-1
 
 Generación: G18
+
+Fecha: 24-08-2021

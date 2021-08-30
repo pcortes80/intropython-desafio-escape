@@ -1,4 +1,4 @@
-# Información del Desafío
+# Info
 
 ## Nombre del Desafío
 
